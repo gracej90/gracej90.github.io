@@ -1,0 +1,45 @@
+title:            data nomad's journey
+description:      # Not sure where this is.
+url:              # Site url, without a slash at the end.
+signoff:          grace
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+github_username:  gracej90
+
+links:
+  - name:         welcome
+    url:          /
+  - name:         projects
+    url:          /projects
+    external:     false
+  - name:         scribbles
+    url:          /scribbles
+    external:     false
+  - name:         github
+    url:          http://github.com/gracej90
+    external:     true
+
+# For category support
+include: ["_pages"]
+
+permalink:        pretty
+markdown:         kramdown
+
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+  # from https://github.com/jekyll/jekyll/issues/4619
+  syntax_highlighter_opts:
+
+    css_class: 'highlight'
+
+# redcarpet:
+#  extensions:
+#    - smart
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
