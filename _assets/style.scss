@@ -39,6 +39,11 @@ blockquote {
 
 header { text-align: center; }
 
+header p {
+  margin: 0;
+  padding: 0;
+}
+
 footer {
   width: 100%;
   max-width: 600px;
@@ -55,7 +60,7 @@ footer {
   width: 100%;
   max-width: 600px;
   background: #fff;
-  margin: 40px auto 20px;
+  margin: 20px auto 20px;
   border-radius: 7px;
   border: 1px solid #eee;
   position: relative;
@@ -237,7 +242,15 @@ pre {
   @include box-sizing(border-box);
 
 }
-code { font-size: 13px; color: #eee; background: #39382e; padding: 2px 4px 3px; border-radius: 2px; line-height: 1.3em; @include inline-block; }
+code {
+  font-size: 13px;
+  color: #eee;
+  // background: #39382e;
+  padding: 2px 4px 3px;
+  border-radius: 2px;
+  line-height: 1.3em;
+  @include inline-block;
+}
 img {
   max-width: 100%;
   &.half { width: 50%; }
