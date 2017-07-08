@@ -5,7 +5,7 @@ category: scribbles
 
 ---
 
-Currently sitting at my favourite coffeeshop on Montana - primo passo coffee co. I am not a coffee lover, as many of my close family and friends are, but I do appreciate a nice place to sit in the corner and quietly work while sipping on my go-to chai tea. This spot has no wifi, but it's perfect for me to work on these posts on my favourite text editor, [Atom](atom.io).
+Currently sitting at my favourite coffeeshop on Montana - primo passo coffee co. I am not a coffee lover, as many of my close family and friends are, but I do appreciate a nice place to sit in the corner and quietly work while sipping on my go-to chai tea. This spot has no wifi, but it's perfect for me to work on these posts on the coolest text editor, [Atom](atom.io).
 
 I hope to do this on a regular basis, at least 1x a week on saturday mornings - maybe it can be some sort of a journal.
 
@@ -19,7 +19,7 @@ I really enjoyed learning, but there still was a mental block preventing me from
 
 When I completed the program, it was probably one of the most proudest moments of my life. I am so grateful for the support that my family, Udacity mentor, and incredibly patient friend showed me during this rather tumultuous period.
 
-It will not easy to make the transition, but I can confidently say that with so many free and affordable resources online that with patience and persistence, you can definitely do it. As cliche as it sounds, the most important thing is to believe in your ability cause I'd say doubt was the biggest obstacle in my journey.
+It will not be easy to make the transition, but I can confidently say, with so many free and affordable resources online, if you have patience and persistence, it's definitely doable. As cliche as it sounds, the most important thing is to believe in your ability, because I'd say doubt was the biggest obstacle in my journey.
 
 
 > For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.
