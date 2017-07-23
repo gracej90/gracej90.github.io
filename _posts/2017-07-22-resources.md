@@ -4,18 +4,18 @@ title: Resources
 category: scribbles
 
 ---
-I'm back! It's been a few weeks and they flew by. We're now approaching August and it's definitely getting warmer. Below are a few of my favourite resources that I wanted to share, in no particular order.
+I'm back! It's been a few weeks and time flew by as always. We're now approaching August and it's definitely getting warmer. Below are a few of my favourite resources that I wanted to share, in no particular order. They are all great resources for learning to code in R, Python, and web dev languages like HTML/CSS.
 
-* [DataCamp](https://datacamp.com)
+* [DataCamp](https://www.datacamp.com)
 * [Udacity's Data Analytics Nanodegree program](https://www.udacity.com/course/data-analyst-nanodegree--nd002?v=a4)
 * [Code Academy](https://codeacademy.com)
 * [StackOverflow](https://stackoverflow.com)
 
-Recently, I am brushing up on Python before starting the Data Science course @ General Assembly. Below is an incredible post with an exhaustive list of resources that I am excited to peruse one by one.
+Below is a great post with an exhaustive list of resources for learning Python as well.
 * [Python Tips](https://pythontips.com/2016/02/27/learning-python-for-data-science/#more-712)
 
 
-> DO not be anxious about anything, but in every situation, by prayers and petition, with thanksgiving, present your requests to God.
+> Do not be anxious about anything, but in every situation, by prayers and petition, with thanksgiving, present your requests to God.
 >
 > ~ Philippians 4:6
 
@@ -33,4 +33,4 @@ I enjoy learning with others too in an in-class environment, and have missed tha
 
 I used to think "formal" learning stops after college, if you don't go back to grad school. But there are incredible companies out there these days that enable online learning like never before. It's amazing how much you can learn on your own, with minimal financial investment. Of course there are great benefits to having a degree in the field you're passionate about, and I am thinking of getting a Master's in Data Science too. But in the meantime, you can always continue to learn using the incredible resources available online.
 
-Next, I'll share some R learnings!
+Next, I'll share some R learnings and mix it up with some life updates? :)
